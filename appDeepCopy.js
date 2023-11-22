@@ -1,5 +1,5 @@
 
-// links to watch theory
+// links to watch theory video
 // https://www.youtube.com/watch?v=6napu-MGQDo&list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8&index=47
 // https://www.youtube.com/watch?v=I8LNJpG60vI&feature=youtu.be
 
